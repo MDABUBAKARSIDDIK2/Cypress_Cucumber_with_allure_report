@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-12-15T06:25:07.913Z",
+  "duration": 188594,
+  "file": "cypress\\e2e\\features\\Cartleptop.feature"
+}

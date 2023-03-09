@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 0,
+  "pending": 0,
+  "failures": 1,
+  "start": "2022-12-15T06:25:07.206Z",
+  "duration": 105629,
+  "file": "cypress\\e2e\\features\\BeAnAffiliate.feature"
+}
